@@ -37,7 +37,7 @@
        "value": "latest"
      }
   },
-  "website": "",
-  "repository": "",
+  "website": "https://dashboard.heroku.com/new?",
+  "repository": "https://github.com/gy55h/xd.git",
   "stack": "container"
  }
